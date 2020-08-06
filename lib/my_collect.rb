@@ -7,5 +7,5 @@ def my_collect(array)
  end
  name_collection
  
-  end
+ end
 
