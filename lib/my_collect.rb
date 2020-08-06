@@ -1,4 +1,5 @@
-my_collect(collction)
+my_collect()
+  counter += 1 
  
   end
 
